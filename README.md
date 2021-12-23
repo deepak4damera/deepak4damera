@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepak4damera
 - 👀 I’m interested in Integration technologies like IBM App Connect enterprise & MuleSoft
 - 🌱 I’m currently learning Mulesoft
-- 💞️ I’m looking to collaborate on MuleSoft
+- 💞️ I’m looking to collaborate on MuleSoft projects.
 - 📫 How to reach me deepak4damera@gmail.com
 
 <!---
